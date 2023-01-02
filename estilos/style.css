@@ -6,7 +6,7 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
 header {
-    height: 200px;
+    height: 260px;
 }
 header h1 {
     color: green;
@@ -14,8 +14,8 @@ header h1 {
     text-align: center;
     font-size: 2.3em;
     text-shadow:  2px 2px rgba(0, 0, 0, 0.396);
-    padding-top: 40px;
-    padding-bottom: 40px; 
+    padding-top: 30px;
+    padding-bottom: 30px; 
 }
 
 body {
@@ -38,11 +38,11 @@ section#celular {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px; 
-    background: url(../imagens/frame-iphone.png) no-repeat;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.603);
-    border-radius: 60px;
+    height: 504px;
+    width: 248px; 
+    background: url(../imagens/frame-iphone1.png) no-repeat;
+    box-shadow: 3px 3px 10px black;
+    border-radius: 39px;
 }
 section#rede-sociais {
     text-align: right;
@@ -52,7 +52,7 @@ section#rede-sociais img {
     width: 50px;
     margin: 10px;
     border-radius: 50%;
-    box-shadow: 2px 2px 5px black; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.422); 
     box-sizing: border-box; 
 }
 section#rede-sociais img:hover {
@@ -63,9 +63,9 @@ section#rede-sociais img:hover {
 }
 iframe#tela {
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 268px;
-    height: 470px;
+    top: 65px;
+    left: 19px;
+    width: 214px;
+    height: 377px;
     background-size: cover;
 }
