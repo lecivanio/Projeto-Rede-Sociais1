@@ -15,7 +15,7 @@ header h1 {
 }
 
 body {
-    background: url('../imagens/Topo.jpg') no-repeat top center;
+    background: url('../imagens/rio.JPG') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
     width: 100vw;
@@ -23,7 +23,7 @@ body {
 main {
     background-repeat: no-repeat;
     position: relative;
-    height: 100vh;
+    height:85vh;
     width: 1000px;
     margin: auto;
 
